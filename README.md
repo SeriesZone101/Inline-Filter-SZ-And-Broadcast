@@ -41,7 +41,7 @@ A Telegram Bot for filter in Inline
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=link">
+  <a href="https://heroku.com/deploy?template=https://github.com/SeriesZone101/Inline-Filter-SZ-And-Broadcast">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
